@@ -19,9 +19,6 @@ Print the value it would be interchange
 End the program
 ## Program:
 ```
-#Program to circulate N values.
-#Developed by: Mahalakshmi R
-#Register Number: 212223230116
 def circulate():
    l=eval(input())
    n=int(input())
@@ -30,7 +27,8 @@ def circulate():
 ```
 
 ## Output:
-![Screenshot 2024-03-09 091945](https://github.com/Mahalakshmi230/Circulate-the-values-of-N-variables/assets/149365324/453b9155-fb53-406f-9659-d7755a43b784)
+![image](https://github.com/Mahalakshmi230/Circulate-the-values-of-N-variables/assets/149365324/b90b97ca-75e2-4500-b614-9d3d53b41e76)
+
 
 ## Result:
 Thus the circulation of n variables are successfully executed.
